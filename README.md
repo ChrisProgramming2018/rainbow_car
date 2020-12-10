@@ -1,1 +1,1 @@
-# rainbow_car
+# dqn_rainbow
